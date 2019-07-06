@@ -843,7 +843,6 @@ __webpack_require__.r(__webpack_exports__);
 var WebcoreHttpService = /** @class */ (function () {
     function WebcoreHttpService(http) {
         this.http = http;
-        this.API_URL = 'http://localhost:4200/api/';
     }
     WebcoreHttpService.prototype.setApiUrl = function (url) {
         this.API_URL = url;
