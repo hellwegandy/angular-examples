@@ -114,6 +114,8 @@ THE SOFTWARE.
 
 @angular/material/card
 
+@angular/material/dialog
+
 @angular/material/divider
 
 @angular/material/form-field
@@ -123,6 +125,8 @@ THE SOFTWARE.
 @angular/material/menu
 
 @angular/material/sidenav
+
+@angular/material/tabs
 
 @angular/material/toolbar
 
